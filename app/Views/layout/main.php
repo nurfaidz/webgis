@@ -1,0 +1,3 @@
+<?=
+$this->RenderSection('content');
+?>
